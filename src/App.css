@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.ui.four.column.doubling.stackable.grid.container {
+  width: 300px !important;
+}
